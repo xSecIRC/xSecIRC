@@ -1,6 +1,6 @@
 ## About Us
 
-![Screen Shot](https://raw.githubusercontent.com/nonymouscommunity/nonymouscommunity/main/Blue%20Pink%20Sunset%20Photo%20Liberation%20Day%20Facebook%20Cover_20240715_190236_0000.png)
+![Screen Shot](https://raw.githubusercontent.com/xSecIRC/xSecIRC/refs/heads/main/Art-min.png)
 
 We are a secular international, and gender-neutral community of cybersecurity enthusiasts. We are here to provide free education to people interested in information technology, cybersecurity and programming, and our motives are clear, we are here to obsolete entities making education a business.
 
