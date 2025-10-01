@@ -59,7 +59,7 @@ If you have some spare time and want to contribute, consider volunteering your t
 | **Bitcoin (BTC)** | `bc1qu2lxdf8n6f83cn95hm4frkhsh3slp9c38ejxp8` |
 
 **Alternative:**
-* **LiberaPay:** `https://liberapay.com/xSecIRC/`
+* **LiberaPay:** <noscript><a href="https://liberapay.com/xSecIRC/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 ### 4. Spread the Word
 Help us reach more people by sharing information about the community with your friends, family, and colleagues. Encourage them to join and get involved in our mission.
